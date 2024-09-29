@@ -1,0 +1,15 @@
+Readme file for AIT 614 008 Final Project
+Project Title: Predicting the Individual’s Annual Income Based on the Factors of the Dataset using Big Data
+Team 5
+
+Dataset: https://www.kaggle.com/datasets/uciml/adult-census-income
+
+1. Please try download the dataset from the given link. 
+2. Dataset is also attached in the submitted zip folder.
+3. Upload the CSV file dataset to the DBFS in data bricks, as we used data bricks for our entire project.
+4. Run the PySpark libraries which are given in the notebook. 
+5. Every PySpark library is mentioned in the every required cell for the tasks. If the notebook doesn’t run, check with the libraries in the notebook, whether it is executed or not. Run once more and run the whole notebook file.
+6. The final executed output is given as the HTML file which is attached in the zip folder.
+
+Note:
+The dataset, Html and ipynb files are also attached in the zip folder.
